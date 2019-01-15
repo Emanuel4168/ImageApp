@@ -1,0 +1,25 @@
+{
+  "name": "ImageApp",
+  "version": "1.0.0",
+  "description": "Aplicación web que permite a sus usuarios tener las funcionalidades más básicas de una red social y el almacenamiento de imágenes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emanuel4168/ImageApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emanuel4168/ImageApp/issues"
+  },
+  "homepage": "https://github.com/Emanuel4168/ImageApp#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "multer": "^1.4.1"
+  }
+}
